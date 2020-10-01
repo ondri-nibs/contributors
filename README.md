@@ -1,8 +1,61 @@
-# Contributors
+Contributors
+================
 
-This will be a repository/page to denote contributors to the various ondri-nibs projects 
+This page provides a list of individuals who have contributed to
+materials seen here on the `ondri-nibs` page. For now, individuals will
+just be listed (alphabetically), with updates coming soon on specific
+contributions to various repositories, projects, materials, and
+utilities.
 
+## Contributors
 
-## Discoverers of easter eggs
+  - Jedid Ahn
 
-* Jeff Huang found the "secret message" in the toy data teddy bear (it says "ONDRI" in binary)
+  - Stephen Arnott
+
+  - Derek Beaton
+
+  - Malcolm Binns
+
+  - Brian Coe
+
+  - Vivian Chau
+
+  - Roland De Souza
+
+  - Allison Dilliot
+
+  - Donna Kwan
+
+  - Roberto Lentini
+
+  - Logan Lim
+
+  - Paula McLaughlin
+
+  - Hibah Naviwala
+
+  - Joel Ramirez
+
+  - Chris Scott
+
+  - Pirammiya (Priya) Shanmugathas
+
+  - Stephen Strother
+
+  - Sujeevini Sujanthan
+
+  - Ningcan (Vonna) Sun
+
+  - Kelly Sunderland
+
+  - Brian Tan
+
+  - Jeremy Tanuan
+
+  - Raadhika Venkatesh
+
+## Easter eggs
+
+  - Jeff Huang found the “secret message” in the toy data teddy bear (it
+    says “ONDRI” in binary)
