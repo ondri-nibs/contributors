@@ -1,6 +1,8 @@
 Contributors
 ================
 
+# <img src='etc/contributors_hex.png' align="right" height="139"/>
+
 This page provides a list of individuals who have contributed to
 materials seen here on the `ondri-nibs` page. For now, individuals will
 just be listed (alphabetically), with updates coming soon on specific
